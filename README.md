@@ -1,7 +1,7 @@
 
 # Andres Alvarez: Data Science Portfolio
-My name is Andres Alvarez and I am a current senior studying sociology and data science at the University of Notre Dame!
-This is a portfolio showcasing my data science projects I have done, which will be updated regularly.
+My name is Andres Alvarez and I am a current senior studying sociology and data science at the University of Notre Dame!<br/>
+This is a portfolio showcasing my data science projects I have done, which will be updated regularly.<br/>
 
 Technical Skills:
 + R
