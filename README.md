@@ -7,4 +7,4 @@ Technical Skills:
 + R
 + Python
 
-My data science profile is linked here
+My data science profile is linked [here](https://github.com/aalvar23nd/Alvarez-Data-Science-Portfolio/tree/main#alvarez-data-science-portfolio)
