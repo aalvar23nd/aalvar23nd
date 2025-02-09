@@ -4,7 +4,7 @@
 My name is Andres Alvarez and I am a current senior studying sociology and data science at the University of Notre Dame! Some of my research interests include immigration, race & ethnicity, and stratification. I hope to work on projects that I can utilize some of my new coding skills, especially in terms of visualizations (it's my favorite kind of data to work with and create!)
 
 ## Current Projects  ᕙ⁠(⁠⇀⁠‸⁠↼⁠‶⁠)⁠ᕗ
-Throughout this semster I will be working on some cool projects!! Currently, I am working on creating a streamlit app.
+Throughout this semster I will be working on some cool projects!! Currently, I am working on my first streamlit app, Plenty'a Penguins.
 
 ## Skills  (๑>؂•̀๑)
 * Python
