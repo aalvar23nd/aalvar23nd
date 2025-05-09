@@ -15,7 +15,7 @@ Throughout this semster I will be working on some cool projects!! Currently, I a
 ### [Lessons in Supervised Machine Learning Applications](https://github.com/aalvar23nd/Alvarez-Data-Science-Portfolio/tree/f7feaab7537a9b64500471a328f92847a6306989/MLStrealitApp):
 #### Streamlit app to explore the fundamentals of linear regression modeling. Users can upload their own dataet or use the one provided. Users can then train a model , evaluate its performance, and visualize outputs like prediction accuracy, residual distroibution, and variable coefficients. 
 ### [Lessons in Unsupervised Machine Learning: CLustering Exploration](https://github.com/aalvar23nd/Alvarez-Data-Science-Portfolio/blob/078a57982833bce425ce3de2d73cafd6f5835fe9/MLUnsupervisedApp/README.md):
-####
+#### Streamlit app introducing clustering. Users can upload their own dataset or the one provided, the Iris dataset, to explore unsupervised machine learning. Within the app, users can choose between k-means or hierarchical clustering, select numeric variables, and visualize cluster results using PCA. The app also displays several metrics like the silhouette score and an elbow plot to dtermine the optimal number of clusters.
 
 ## Goals  
 I hope to learn more about models and work with large datasets in python. I also want to build my portfolio with projects I can be proud of and be generally more confident in my coding capabilities! 
